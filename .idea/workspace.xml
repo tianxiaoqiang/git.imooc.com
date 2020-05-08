@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bfaad3e-df52-4d1d-bbbd-eb5fd0a71b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/git_imooc_com$TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts.out" NAME="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts Coverage Results" MODIFIED="1588950613428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1992648564">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="7" />
+          <entry key="ini" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="7" />
+          <entry key="Ini" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="112" />
+          <entry key="ini" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="112" />
+          <entry key="Ini" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wendell1000/account/core/accounts/dao_account_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendell1000/infra/base/dbx_base.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendell1000/account/brun/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/tietang/dbx@v1.0.1/dbx.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendell1000/account/testx/init.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#15#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendell1000/account/brun/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wendell1000/account/brun/config.ini" />
+        <option value="$PROJECT_DIR$/wendell1000/account/testx/main.go" />
+        <option value="$PROJECT_DIR$/wendell1000/account/brun/main.go" />
+        <option value="$PROJECT_DIR$/wendell1000/account/testx/init.go" />
+        <option value="$PROJECT_DIR$/wendell1000/account/core/main.go" />
+        <option value="$PROJECT_DIR$/wendell1000/account/core/accounts/dao_account_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="525" />
+    <option name="y" value="55" />
+    <option name="width" value="1590" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendell1000" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendell1000" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendell1000" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendell1000" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="brun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendell1000" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git.imooc.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git.imooc.com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendell1000" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="testx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="git.imooc.com" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/wendell1000/account/brun/main.go" />
+      <package value="git.imooc.com" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAccountDao_GetByUserId in git.imooc.com/wendell1000/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="git.imooc.com" />
+      <working_directory value="$PROJECT_DIR$/wendell1000/account/core/accounts" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="git.imooc.com/wendell1000/account/core/accounts" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAccountDao_GetByUserId$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="git.imooc.com" />
+      <working_directory value="$PROJECT_DIR$/wendell1000/account/core/accounts" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="git.imooc.com/wendell1000/account/core/accounts" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAccountDao_GetOne$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" />
+      <item itemvalue="Go Test.TestAccountDao_GetByUserId in git.imooc.com/wendell1000/account/core/accounts" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestAccountDao_GetByUserId in git.imooc.com/wendell1000/account/core/accounts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 04m 21s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 04m 51s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 10m 14s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 15m 21s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetByUserId_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 16m 25s.xml">
+      <configuration name="TestAccountDao_GetByUserId in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 17m 45s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 24m 05s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 24m 49s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 25m 54s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAccountDao_GetOne_in_git_imooc_com_wendell1000_account_core_accounts - 2020.05.08 at 23h 28m 18s.xml">
+      <configuration name="TestAccountDao_GetOne in git.imooc.com/wendell1000/account/core/accounts" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7599432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wendell1000/infra/base/dbx_base.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/tietang/dbx@v1.0.1/dbx.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendell1000/account/testx/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendell1000/account/brun/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendell1000/account/brun/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendell1000/account/testx/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendell1000/account/core/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendell1000/account/core/accounts/dao_account_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
