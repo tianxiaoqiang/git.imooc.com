@@ -30,7 +30,7 @@ create TABLE `red_envelope_goods` (
   PRIMARY KEY (`id`) USING BTREE,
   UNIQUE KEY `envelope_no_idx` (`envelope_no`) USING BTREE,
   KEY `id_user_idx` (`user_id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=1273 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
 
 -- ----------------------------
 -- Table structure for red_envelope_item
@@ -53,7 +53,7 @@ create TABLE `red_envelope_item` (
   PRIMARY KEY (`id`) USING BTREE,
   UNIQUE KEY `item_no_idx` (`item_no`) USING BTREE,
   KEY `envelope_no_idx` (`envelope_no`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=141 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
 
 
 SET FOREIGN_KEY_CHECKS = 1;

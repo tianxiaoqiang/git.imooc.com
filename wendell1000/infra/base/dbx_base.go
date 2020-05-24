@@ -9,9 +9,11 @@ import (
 
 const TX = "tx"
 
+
 //提供一个基本Dao基础功能的支持
 type BaseDao struct {
 	TX *sql.Tx
+
 }
 
 func (d *BaseDao) SetTx(tx *sql.Tx) {
